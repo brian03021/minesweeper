@@ -1,6 +1,6 @@
-domain/Position.class
-domain/GameBoard.class
-app/Main.class
-domain/Cell.class
-ui/PrintConsole.class
-util/GameState.class
+org/app/domain/Cell.class
+org/app/domain/GameBoard.class
+org/app/util/GameState.class
+org/app/ui/PrintConsole.class
+org/app/domain/Position.class
+org/app/Main.class

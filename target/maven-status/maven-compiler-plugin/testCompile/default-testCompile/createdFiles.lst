@@ -1,0 +1,4 @@
+org/domain/CellTest.class
+org/domain/PositionTest.class
+org/app/MainTest.class
+org/domain/GameBoardTest.class
